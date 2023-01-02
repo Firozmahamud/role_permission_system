@@ -70,6 +70,7 @@ Since, there is any problem to seeder, Please import the .sql file which is in d
 
 - email - admin@gmail.com
 - Password - 123456
+
 2.Create User
 
 3.Create Role
